@@ -1,5 +1,7 @@
 # How to Break Things on Purpose:
 Computer Vision Applied to Strategic Competition and Dynamic Graphs.
+
+
 In an industry that relies on exacting logic, the term 'disruptor' has a singular seductive quality. Like many technological tools, 'computer vision' or CV, has the potential for disruption on a massive scale. Widely used for medical imaging and autonomous vehicles, its limits of versatility have yet to be reached; one recent proposal uses computer vision to protect beach-goers from riptides and sharks, and can recognize and alert safety personnel to unattended children and struggling swimmers.
 
 ![image](https://github.com/JessemanGray/BREAK/assets/123507565/00afe4d0-0efa-44a9-8a85-8146fa7b1018)
