@@ -7,7 +7,9 @@ In an industry that relies on exacting logic, the term 'disruptor' has a singula
 ![image](https://github.com/JessemanGray/BREAK/assets/123507565/00afe4d0-0efa-44a9-8a85-8146fa7b1018)
 
 
-Bruce the Shark from 'Jaws'  (Photo : Academy of Motion Picture Arts and Sciences)In ourcase, CV is being used for a somewhat less altruistic cause. The original intent was to develop a better understanding of the benefits and limitations of different CV architectures while also gaining  insight into highly dynamic models that can be difficult to interpolate. Game theory and adversarial constructs have proved to be useful in solving challenges related to NLP-based LLMs, and these principles could translate to CV as well. 
+Bruce the Shark from 'Jaws'  (Photo : Academy of Motion Picture Arts and Sciences)
+
+In our case, CV is being used for a somewhat less altruistic cause. The original intent was to develop a better understanding of the benefits and limitations of different CV architectures while also gaining  insight into highly dynamic models that can be difficult to interpolate. Game theory and adversarial constructs have proved to be useful in solving challenges related to NLP-based LLMs, and these principles could translate to CV as well. 
 The impetus for this research wasn't completely random. Late one evening moonlighting at a local dive bar watching the sharks circle the pool table, it occurred to me that a game like this, specifically the cue sport "eight-ball" could be an interesting way to document patterns of entropy devolving from organized systems, as well as chart probabilities of success for a given approach. Tracking each ball's progression and feeding those vectors into a predictive model could help narrow down the most reliable outcome for each setup. As a bonus, segmentation should also shed light on other trends and inferences that might not be as obvious without modeling, as well as reinforcing learned and intuited relationships. 
 
 ![Magic8ball](https://github.com/JessemanGray/BREAK/assets/123507565/f25ec42c-c253-42c5-88f8-2999387527b0)
